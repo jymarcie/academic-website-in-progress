@@ -21,8 +21,8 @@ links:
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Academic website for Marcie (Jae Yeon) Mun"
-baseurl: ""
-url: ""
+baseurl: "/academic-website-in-progress"
+url: "https://jymarcie.github.io"
 
 # Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
