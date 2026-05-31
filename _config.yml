@@ -73,7 +73,7 @@ plugins: ["jekyll/scholar", "jekyll-sitemap"]
 
 scholar:
   last_name: Mun
-  first_name: [Marcie, M., Jae Yeon]
+  first_name: [M., J.Y.]
   style: citesty
   locale: en
   source: /assets/
